@@ -1,8 +1,4 @@
-num =int(input("Enter number :  "))
+s = input("Enter number as string :  ")
 
-
-if num >=0:
-	print("Positive Number")
-else:
-	print("Nagative Number")
-	
+n = int(s)
+print("Result =  ",  n * 10)

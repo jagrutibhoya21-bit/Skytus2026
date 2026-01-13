@@ -1,3 +1,7 @@
-a = int(input("Enter first number : " ))
-b = int(input("Enter second number: "))
-print ("Sum = " , a + b )
+a = int(input("Enter a number:"))
+
+if  a % 2 == 0 :
+     print(" Even number ")
+else :
+    print(" Odd number ") 
+  

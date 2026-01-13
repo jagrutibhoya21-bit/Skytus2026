@@ -1,4 +1,3 @@
-name = "jagruti "
-age = 20
-city = "valsad"
-print(name,age,city)
+a =int(input("Enter first number:"))
+b =int(input("Enter second number:"))
+print("Remainder =", a % b)
